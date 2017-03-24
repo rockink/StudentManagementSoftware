@@ -1,0 +1,5 @@
+nirmal nepal,1,junior,male
+nirmal nepal,2,freshman,male
+nirmal nepal,3,senior,male
+nirmal nepal,4,junior,male
+nirmal nepal,5,senior,female
